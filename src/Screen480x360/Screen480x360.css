@@ -1,0 +1,11 @@
+.container-480x360 {
+    background-image: url(../../../public/images/480x360.png);
+    height: 360px;
+    width: 100%;
+
+    background-size: contain;
+
+}
+.container-480x360  div {
+    background-color: aqua;
+}
